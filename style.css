@@ -1,0 +1,37 @@
+*{
+    width: 30vw;
+    line-height: 1px;
+}
+
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bloco-1{
+    background-color: orange;
+    color: white;
+    border: 4px solid salmon;
+    margin: 3px;
+}
+
+#bloco-2{
+    background-color: green;
+    color: white;
+    border: 4px solid rgb(30, 202, 110);
+    margin: 3px
+}
+
+#bloco-3{
+    background-color: #006400;
+    color: white;
+    border: 4px dashed green;
+    margin: 3px
+}
+
+#bloco-4{
+    background-color: red;
+    color: white;
+    border: 4px dashed orange;
+    margin: 3px    
+}
+
